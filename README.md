@@ -29,4 +29,9 @@ Analyze customer purchasing behavior and membership impact.
 - analysis.sql → Business queries
 
 ## 👨‍💻 Author
-Jeem Manikar Reddy
+G Manikar Reddy
+
+
+
+## 📸 Sample Output
+
