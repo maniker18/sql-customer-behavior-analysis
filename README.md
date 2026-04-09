@@ -31,7 +31,11 @@ Analyze customer purchasing behavior and membership impact.
 ## 👨‍💻 Author
 G Manikar Reddy
 
-
-
 ## 📸 Sample Output
+
+### Query Result 7a
 Screenshot 2026-04-09 175828.png
+### Query Result 8
+Screenshot 2026-04-09 175926.png
+
+
