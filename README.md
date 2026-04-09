@@ -34,4 +34,4 @@ G Manikar Reddy
 
 
 ## 📸 Sample Output
-
+Screenshot 2026-04-09 175828.png
