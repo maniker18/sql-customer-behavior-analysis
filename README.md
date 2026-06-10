@@ -1,41 +1,29 @@
-# 📊 Customer Purchase Behavior Analysis (SQL)
+# SQL Customer Behavior Analysis Project
 
-## 📌 Objective
-Analyze customer purchasing behavior and membership impact.
+## Project Overview
+Analyzed a customer dataset to uncover valuable business insights using advanced SQL techniques.
 
-## 📂 Dataset
-- Users
-- Sales
-- Products
-- Gold Membership
+## Dataset
+- **Source**: Customer transactions / e-commerce data
+- **Tables**: Customers, Orders, Products, etc.
 
-## 🔍 Key Analysis
-- Total spending per user
-- Number of visits per user
-- First & last purchase behavior
-- Most purchased product
-- Behavior before and after gold membership
-- Loyalty points calculation
+## Key Business Questions Solved
+- Identified top 10 customers by total spending
+- Analyzed customer retention and purchase frequency
+- Segmented customers based on behavior
+- Calculated average order value and lifetime value
 
-## 🛠️ SQL Concepts Used
-- Joins
-- Group By
-- Aggregate Functions
-- Window Functions (RANK)
-- CTE (Common Table Expressions)
+## SQL Techniques Used
+- **JOINS** (INNER, LEFT, etc.) to combine multiple tables
+- **Aggregations** (SUM, COUNT, AVG, GROUP BY)
+- **Window Functions** (RANK, ROW_NUMBER, LAG/LEAD)
+- Subqueries and CTEs
+- Date functions and filtering
 
-## 📁 Project Structure
-- schema.sql → Table creation and data
-- analysis.sql → Business queries
+## Learning Outcomes
+Strengthened SQL skills for data analysis — foundational for Generative AI data pipelines.
 
-## 👨‍💻 Author
-G Manikar Reddy
+---
+*Part of my Generative AI Engineer Roadmap*
 
-## 📸 Sample Output
-
-### Query Result 7a
-Screenshot 2026-04-09 175828.png
-### Query Result 8
-Screenshot 2026-04-09 175926.png
-
-
+View the SQL queries in the repository files.
